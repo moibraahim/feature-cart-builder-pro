@@ -342,7 +342,7 @@ const Index = () => {
     if (success) {
       toast({
         title: "Selection Confirmed!",
-        description: "Your requirements have been packaged and sent successfully. Our team will contact you shortly.",
+        description: "Your requirements have been packaged and sent successfully",
       });
     } else {
       toast({
