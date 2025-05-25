@@ -364,8 +364,7 @@ const Index = () => {
             Helpfull AI Features Log
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Build your custom package by selecting the features you need. 
-            Get real-time pricing and create the perfect solution for your business.
+            Easy to Navigate Interactive Form to track MVP V2 Features.
           </p>
         </div>
 
