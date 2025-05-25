@@ -254,7 +254,7 @@ const Index = () => {
   };
 
   const sendToWebhook = async (data: any) => {
-    const webhookUrl = "https://ayra.app.n8n.cloud/webhook-test/f0b379d5-af88-41bb-9b58-e3381bcaeb42";
+    const webhookUrl = "https://ayra.app.n8n.cloud/webhook/f0b379d5-af88-41bb-9b58-e3381bcaeb42";
     
     try {
       const response = await fetch(webhookUrl, {
