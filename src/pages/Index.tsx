@@ -67,7 +67,7 @@ const features: Feature[] = [
     id: '16',
     title: 'Call Transfer to Me',
     description: 'Allow business owners to specify immediate call transfers when specific scenarios occur during AI calls.',
-    price: 100,
+    price: 200,
     type: 'feature',
     category: 'Call Management'
   },
@@ -81,8 +81,8 @@ const features: Feature[] = [
   },
   {
     id: '17',
-    title: 'SMS Notifications for Call Events',
-    description: 'Configure SMS alerts to notify business owners when specific call events or scenarios occur.',
+    title: 'SMS Notifications for Negative calls',
+    description: 'Configure SMS alerts to notify business owners when negative call scenarios occur.',
     price: 200,
     type: 'feature',
     category: 'Notifications'
@@ -114,7 +114,7 @@ const features: Feature[] = [
   },
   {
     id: '18',
-    title: 'Know Your Customer',
+    title: 'Know Your Customer [Assitant Memory]',
     description: 'AI remembers caller details from previous calls and personalizes greetings and interactions based on call history.',
     price: 500,
     type: 'feature',
